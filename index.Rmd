@@ -1,7 +1,7 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
-description: "My final project"
+author: "Quinn Ewanchyna"
+description: "My Gov 50 final project"
 output:
   distill::distill_article:
     self_contained: false
@@ -11,4 +11,5 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to the relationship between military service and political identity/affiliation. According to currently-available data, the majority of military veterans tend to identify with the Republican Party. However, there is also data which challenges this perception, stating that older veterans (aged 65+) tend to identity with the Democratic Party.
+Within my research, I aim to further understand this data while incorporating different variables such as time period of military service, the corresponding political leaders and presidents during these time periods, the underlying political basis for engaging in specific wars, and more.
