@@ -11,5 +11,5 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to the relationship between military service and political identity/affiliation. According to currently-available data, the majority of military veterans tend to identify with the Republican Party. However, there is also data which challenges this perception, stating that older veterans (aged 65+) tend to identity with the Democratic Party.
-Within my research, I aim to further understand this data while incorporating different variables such as time period of military service, the corresponding political leaders and presidents during these time periods, the underlying political basis for engaging in specific wars, and more.
+I am interested in exploring data related to the relationship between how serving in the military can either amplify or hinder hawkish biases in foreign policy making. More specifically, I aim analyze this relationship by examining members of congress who have served in the military and their voting history on foreign policy-related measures, and cross-compare this data with members of congress from the same state who have not served in the military. I plan to include data from all 82 members of congress who have served in the military.
+Within my research, my utmost goal is to see if a relationship exists between serving in the military and the experiences one may endure, and how this can potentially alter one's perception of international relations and hawkish engagement from a policy standpoint.
